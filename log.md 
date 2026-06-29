@@ -1,0 +1,10 @@
+
+
+- jun 29 2334 
+    - junpyter didnt wrok becase venv 
+    - i want test requmet.txt
+        run in cli :
+        $ pip install -r requirements 
+        -r  for if they are not in one line 
+    - in vs code we have to mode for run 1- file and line by line 
+    
